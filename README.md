@@ -1,6 +1,6 @@
 # Introduction
 
-This repository contains the data and code used for the publication "Seasonal variation in SARS-CoV-2 transmission in the Netherlands, 2020-2022: statistical evidence for a negative association with temperature", by Klinkenberg et al.
+This repository contains the data and code used for the publication "Seasonal variation in SARS-CoV-2 transmission in the Netherlands, 2020-2022: statistical evidence for a negative association with temperature", by Klinkenberg et al. (https://doi.org/10.1101/2024.11.28.24318154).
 
 
 ## How to use the code?
